@@ -1,20 +1,5 @@
 [
-    {
-        "session_id": 0,
-        "start_time": "2025-05-03 19:25:05",
-        "status": "completed",
-        "detection_state": {
-            "fire": "Yes",
-            "smoke": "Yes",
-            "blood": "No",
-            "accident": "No",
-            "lying_person": "Yes"
-        },
-        "severity_score": 6,
-        "lat": 28.6654,
-        "lon": 77.4391,
-        "location": "Gh\u0101zi\u0101b\u0101d"
-    },
+    
     {
         "session_id": 1,
         "start_time": "2025-05-03 19:27:55",
