@@ -12,14 +12,14 @@ from utils.tracker import Tracker
 from utils.log_manager import start_new_session, update_detection, end_session, update_location
 import geocoder 
 
-# Initialize serial connection to Arduino
+
 arduino = serial.Serial('COM5', 9600)  # Replace with your actual port
 time.sleep(2)  # Allow time for Arduino to initialize
 
 pygame.init()
 pygame.mixer.music.load("utils/alarm.wav")
 
-# Load models
+
 fire_smoke_model = YOLO("models/fire_smoke_yolo.pt")
 human_model = YOLO("models/yolov8n.pt")
 
@@ -150,8 +150,7 @@ def update_accident_db(labels, severity):
 
 update_location(session_id, lat, lon, location)
 
-# You must define final_labels and severity_score in your main flow
-# If not, replace with dummy or log only `detected_once`
+
 final_labels = list(detected_once.keys())
 severity_score = sum(detected_once.values())
 
