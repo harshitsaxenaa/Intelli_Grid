@@ -1,0 +1,483 @@
+[
+    {
+        "session_id": 0,
+        "start_time": "2025-05-03 19:25:05",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "Yes",
+            "blood": "No",
+            "accident": "No",
+            "lying_person": "Yes"
+        },
+        "severity_score": 6,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 1,
+        "start_time": "2025-05-03 19:27:55",
+        "status": "completed",
+        "detection_state": {
+            "fire": "No",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 0,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 2,
+        "start_time": "2025-05-03 19:28:15",
+        "status": "ambulance enroute",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "Yes",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 5,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 3,
+        "start_time": "2025-05-03 19:45:56",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 4,
+        "start_time": "2025-05-03 19:51:01",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 5,
+        "start_time": "2025-05-03 19:52:50",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "Yes",
+            "blood": "No",
+            "lying_person": "Yes"
+        },
+        "severity_score": 6,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 6,
+        "start_time": "2025-05-03 19:54:42",
+        "status": "completed",
+        "detection_state": {
+            "fire": "No",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 0,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 7,
+        "start_time": "2025-05-03 19:55:09",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "Yes"
+        },
+        "severity_score": 4,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 8,
+        "start_time": "2025-05-03 23:32:29",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 9,
+        "start_time": "2025-05-03 23:37:20",
+        "status": "ambulance enroute",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "Yes"
+        },
+        "severity_score": 4,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 10,
+        "start_time": "2025-05-04 00:50:28",
+        "status": "ambulance enroute",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 11,
+        "start_time": "2025-05-04 06:59:57",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 12,
+        "start_time": "2025-05-04 09:01:45",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 13,
+        "start_time": "2025-05-04 09:18:12",
+        "status": "running",
+        "detection_state": {
+            "fire": "No",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 0,
+        "lat": 28.6139,
+        "lon": 77.209,
+        "location": "New Delhi, India"
+    },
+    {
+        "session_id": 14,
+        "start_time": "2025-05-04 09:19:21",
+        "status": "running",
+        "detection_state": {
+            "fire": "No",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 0,
+        "lat": 28.6139,
+        "lon": 77.209,
+        "location": "New Delhi, India"
+    },
+    {
+        "session_id": 15,
+        "start_time": "2025-05-04 09:19:54",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 16,
+        "start_time": "2025-05-04 09:24:12",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 17,
+        "start_time": "2025-05-04 09:27:30",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 18,
+        "start_time": "2025-05-04 09:29:30",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 19,
+        "start_time": "2025-05-04 10:19:45",
+        "status": "completed",
+        "detection_state": {
+            "fire": "No",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 0,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 20,
+        "start_time": "2025-05-04 10:20:10",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 21,
+        "start_time": "2025-05-04 10:21:56",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 22,
+        "start_time": "2025-05-04 10:27:08",
+        "status": "completed",
+        "detection_state": {
+            "fire": "No",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 0,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 23,
+        "start_time": "2025-05-04 10:32:38",
+        "status": "running",
+        "detection_state": {
+            "fire": "No",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 0,
+        "lat": 28.6139,
+        "lon": 77.209,
+        "location": "New Delhi, India"
+    },
+    {
+        "session_id": 24,
+        "start_time": "2025-05-04 10:33:47",
+        "status": "running",
+        "detection_state": {
+            "fire": "No",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 0,
+        "lat": 28.6139,
+        "lon": 77.209,
+        "location": "New Delhi, India"
+    },
+    {
+        "session_id": 25,
+        "start_time": "2025-05-04 10:36:21",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 26,
+        "start_time": "2025-05-04 10:37:56",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 27,
+        "start_time": "2025-05-04 10:38:26",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 28,
+        "start_time": "2025-05-04 10:38:52",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 29,
+        "start_time": "2025-05-04 10:40:16",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "Yes"
+        },
+        "severity_score": 4,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 30,
+        "start_time": "2025-05-04 10:50:10",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "Yes"
+        },
+        "severity_score": 4,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    },
+    {
+        "session_id": 31,
+        "start_time": "2025-05-04 10:51:23",
+        "status": "completed",
+        "detection_state": {
+            "fire": "Yes",
+            "smoke": "No",
+            "blood": "No",
+            "lying_person": "No"
+        },
+        "severity_score": 3,
+        "lat": 28.6654,
+        "lon": 77.4391,
+        "location": "Gh\u0101zi\u0101b\u0101d"
+    }
+]

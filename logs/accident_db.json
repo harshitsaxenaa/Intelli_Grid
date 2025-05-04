@@ -1,0 +1,11 @@
+{
+  "datetime": "2025-05-04 10:51:31",
+  "location": "Gh\u0101zi\u0101b\u0101d",
+  "severity": 22,
+  "labels": [
+    "fire"
+  ],
+  "ambulance_enroute": false,
+  "lat": 28.6654,
+  "lon": 77.4391
+}

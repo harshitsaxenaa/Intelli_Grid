@@ -1,0 +1,32 @@
+[
+  {
+    "route_id": "R1",
+    "location": "ABC",
+    "distance_km": 4.5,
+    "estimated_time_min": 5.4
+  },
+  {
+    "route_id": "R2",
+    "location": "ABC",
+    "distance_km": 3.2,
+    "estimated_time_min": 3.84
+  },
+  {
+    "route_id": "R3",
+    "location": "XYZ",
+    "distance_km": 6.8,
+    "estimated_time_min": 8.16
+  },
+  {
+    "route_id": "R4",
+    "location": "PQR",
+    "distance_km": 5.5,
+    "estimated_time_min": 6.6
+  },
+  {
+    "route_id": "R5",
+    "location": "ABC",
+    "distance_km": 6.0,
+    "estimated_time_min": 7.2
+  }
+]
