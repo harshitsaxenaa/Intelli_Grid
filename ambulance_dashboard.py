@@ -27,12 +27,11 @@ check_password()
 ACCIDENT_DB = 'logs/severity_log.json'
 ROUTE_DB = 'logs/routes_db.json'
 
-# Auto-refresh every 5 sec
+# Auto-refresh 
 st_autorefresh(interval=4000, key="ambulance_refresh")
 
-st.title("🚨 Ambulance Alert for Nearby Accidents")
+st.title(" Ambulance Alert for Nearby Accidents")
 
-# Load latest accident data
 try:
     with open(ACCIDENT_DB, 'r') as f:
         data = json.load(f)
@@ -44,7 +43,7 @@ except:
     st.error("Error loading accident data.")
     st.stop()
 
-# Display accident details
+# Display
 start_time = latest.get('start_time', 'N/A')
 severity = latest.get('severity_score', 0)
 status = latest.get('status', '').lower()
@@ -70,7 +69,7 @@ if status != "ambulance enroute":
 else:
     st.success("✅ Ambulance has already accepted the request and is enroute.")
 
-    # Show route details
+    
     try:
         with open(ROUTE_DB) as f:
             routes = json.load(f)
@@ -88,7 +87,7 @@ else:
     except:
         st.error("Error loading route data.")
 
-    # Reset button to enable Accept button again
+    # Reset button 
     st.markdown("---")
     if st.button("🔁 Reset Request"):
         try:
